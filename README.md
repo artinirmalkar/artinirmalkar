@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Arti Nirmalkar</h1>
 <h3 align="center">A passionate Full Stack Developer (Web & Mobile Application) from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arti610&label=Profile%20views&color=0e75b6&style=flat" alt="Arti610" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artinirmalkar&label=Profile%20views&color=0e75b6&style=flat" alt="artinirmalkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arti610" alt="Arti610" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artinirmalkar" alt="artinirmalkar" /></a> </p>
 
 
 -  <h3 display="inline-block">🔭 My Contributions</h3> 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arti-nirmalkar-21072422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rti-nirmalkar-21072422b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Arti610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arti610" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/artinirmalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artinirmalkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,10 +48,10 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arti610&show_icons=true&locale=en&layout=compact" alt="Arti610" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artinirmalkar&show_icons=true&locale=en&layout=compact" alt="artinirmalkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arti610&show_icons=true&locale=en" alt="Arti610" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artinirmalkar&show_icons=true&locale=en" alt="artinirmalkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arti610&" alt="Arti610" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artinirmalkar&" alt="artinirmalkar" /></p>
 
 
