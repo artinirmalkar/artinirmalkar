@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arti610" alt="Arti610" /></a> </p>
 
-- 🔭 I’m currently working on **Lecture Dekho,khushi-advertising,DMT,BKN Machine**
+- 🔭 My Contributions :- **Zaajira, eqi5, ESS, Clarity, E-Delivery, Funiture Flow, Estimation**
 
-- 🌱 I’m currently working on **ReactJs, VueJs, nodeJs**
+- 🌱 Technologies work on :- **HTML, CSS, JavaScript, ReactJs, VueJs, React Native, nodeJs, ExpressJs, MongoDB**
+
+- 🌱 Tools :- **Git, Bootstrap, React Bootstrap, Tailwind CSS, React Prime, MUI, XCode, Android Studio, Postman**
 
 - 📫 How to reach me **artinirmalkar06@gmail.com**
 
@@ -27,8 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arti610&" alt="Arti610" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arti610&show_icons=true&locale=en&layout=compact" alt="Arti610" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arti610&show_icons=true&locale=en" alt="Arti610" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arti610&" alt="Arti610" /></p>
