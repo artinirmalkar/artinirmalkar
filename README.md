@@ -6,11 +6,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arti610" alt="Arti610" /></a> </p>
 
-- 🔭 My Contributions :- **Zaajira, eqi5, ESS, Clarity, E-Delivery, Funiture Flow, Estimation**
+-  <h3>🔭 My Contributions</h3>
 
-- 🌱 Technologies working on :- **HTML, CSS, JavaScript, ReactJs, VueJs, React Native, NextJs, nodeJs, ExpressJs, MongoDB**
+    Zaajira, eqi5, ESS, Clarity, E-Delivery, Funiture Flow, Estimation
 
-- 🌱 Tools using :- **Git, Bootstrap, React Bootstrap, Tailwind CSS, React Prime, MUI, XCode, Android Studio, Postman**
+
+
+-  <h3>🌱 Technologies working on </h3>
+    
+    HTML, CSS, JavaScript, ReactJs, VueJs, React Native, NextJs, nodeJs, ExpressJs, MongoDB
+
+
+
+- <h3>🌱 Tools using </h3>
+
+    Git, Bootstrap, React Bootstrap, Tailwind CSS, React Prime, MUI, XCode, Android Studio, Postman
+
+
 
 - 📫 How to reach me **artinirmalkar06@gmail.com**
 
