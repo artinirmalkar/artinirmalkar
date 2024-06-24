@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Arti Nirmalkar</h1>
-<h3 align="center">A passionate Full Stack Developer (Web & Mobile Application) from India</h3>
+<h3 align="center">A passionate Frontend Developer (Web & Mobile Application)</h3>
+<h2>India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artinirmalkar&label=Profile%20views&color=0e75b6&style=flat" alt="artinirmalkar" /> </p>
 
